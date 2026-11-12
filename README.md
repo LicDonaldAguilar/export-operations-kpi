@@ -44,7 +44,7 @@ Los indicadores de ventas y utilidad describen las finanzas mensuales de la empr
 | Archivo | Contenido |
 | --- | --- |
 | [dashboard_export_operations.pbix](powerbi/dashboard_export_operations.pbix) | Reporte editable con medidas, gráficos y segmentador. |
-| [dashboard_export_operations.pdf](docs/Dashboard_export_operations.pdf) | Vista estática del tablero. |
+| [dashboard_export_operations.pdf](docs/dashboard_export_operations.pdf) | Vista estática del tablero. |
 | [export_operations.xlsx](data/export_operations.xlsx) | Datos de finanzas, pedidos y hojas complementarias. |
 | [quiz_export_operations.docx](docs/quiz_export_operations.docx) | Enunciado de la prueba y definiciones de los tres KPIs obligatorios. |
 
